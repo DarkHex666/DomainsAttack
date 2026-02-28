@@ -1,2 +1,1 @@
-Spam:ex1Api.com
-Spam:ex2Api.com
+Spam:https://data-ha-hoking-git-main-darkhexs-projects.vercel.app/api/SaveText
